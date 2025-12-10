@@ -5,3 +5,6 @@
 💸 Business Master at École Polytechnique & HEC Paris *(Management, marketing, finance, strategy)*  
 🛠️ Passionate about entrepreneurship, I use tech to bring my ideas to life  
 🗺️ Currently exploring scheduling problems with constraints *(optimization, heuristics, search)*  
+
+
+![Eloïse's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=eloisecasa)
