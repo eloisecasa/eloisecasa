@@ -7,4 +7,4 @@
 🗺️ Currently exploring scheduling problems with constraints *(optimization, heuristics, search)*  
 
 
-![Eloïse's GitHub stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=eloisecasa)
+[![Eloïse's GitHub stats](https://github-readme-stats.vercel.app/api?username=eloisecasa)](https://github.com/eloisecasa/github-readme-stats)
